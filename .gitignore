@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Custom ignore
+
+hello_world
